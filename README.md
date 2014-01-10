@@ -11,7 +11,7 @@ The <b>web application</b> is supposed to be a J2EE component that provide authe
 </li>
 <li>
 The notice will be made viral to all the social media like twitter, facebook pages, google+ pages of the respected Organization. 
-<li>
+</li>
 <li>
 The main intention is to create a system that handels notice more specifially and smarty with the digital technology.
 </li>
